@@ -3,7 +3,7 @@ for specialist low's profile!
 # OK ! ANY FIRMWARE FOR TPLINK! ver 1 to 14 may be more
 1. WINHEX.EXE (PREMIUM) OR HxD.exe SETUP
 2. DOWNLOAD OFFCIAL FIRMWARE!
-3. CUT 0x0000000 to 0xXXXXXXX (200 bytes) first 00 00 (adresss)
+3. CUT at first adress 0x0000000 to 0xXXXXXXX (200 bytes)
 4. FIRMWARE WITH "TFTP64.exe" 
 
 ALL INTERNET HACKED! HELP ALL HUMANS!
